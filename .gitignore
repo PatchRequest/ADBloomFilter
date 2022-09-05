@@ -1,0 +1,11 @@
+checker/bloom.bin
+checker/goodhash.txt
+checker/ntlm-hash.txt
+checker/creatingCode
+checker/badOnes.txt
+checker/bin
+checker/bin/*
+
+
+output.ntds
+test.txt
